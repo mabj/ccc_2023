@@ -4,6 +4,7 @@ Small toy project developed during CCC 2023 to control lights using a Raspiberry
 
 ## Pins Scheme
 
+|    |         |        |           |
 |--- |---------|--------|-----------|
 | 16 | GPIO 4  | green  | channel 5 |
 | 15 | GPIO 3  | orange | channel 6 |
