@@ -2,7 +2,7 @@
 
 Small toy-project developed during CCC 2023 to control lights using a RaspiberryPI zero and 2 four channels relay. 
 
-## Pins Scheme
+## Pin Scheme
 
 |    |         |        |           |
 |----|---------|--------|-----------|
